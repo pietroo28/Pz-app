@@ -1,0 +1,38 @@
+[
+  {
+    "usuario": "pietro",
+    "senha": "Pietro28*",
+    "nivel": "dev",
+    "bots": ["pz", "pk", "pg"]
+  },
+  {
+    "usuario": "Katia",
+    "senha": "admin123",
+    "nivel": "admin",
+    "bots": ["pz", "pk", "pg"]
+  },
+  {
+    "usuario": "Recepcao",
+    "senha": "10012025",
+    "nivel": "basico",
+    "bots": ["pz"]
+  },
+  {
+    "usuario": "Comercial",
+    "senha": "2108",
+    "nivel": "basico",
+    "bots": ["pz", "pk", "pg"]
+  },
+  {
+    "usuario": "Supervisao",
+    "senha": "2108",
+    "nivel": "basico",
+    "bots": ["pz", "pk"]
+  },
+  {
+    "usuario": "Telemarketing",
+    "senha": "metas2025",
+    "nivel": "basico",
+    "bots": ["pz", "pk"]
+  }
+]

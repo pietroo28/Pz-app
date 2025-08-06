@@ -1,0 +1,29 @@
+MANUAL DE COMO UTILIZAR CADA BOT E SUAS NECESSIDADES 
+
+
+BOT COBRANÇA
+- ele exige algumas colunas para funcionar normalmente, ele tem a capacidade de ler e ver se estao todas ok, ajuste as 
+colunas conforme a necessidade dele
+- a pagina do sistema orthodontic deve estar maximizada(pode rodar coisas por cimas mas nao deve minimizar ou diminuir o
+tamanho total dela) mesma regra se aplica ao zap web que ele pedir
+
+
+BOT PZ
+- coluna minima: 'Telefones' 'Paciente' 
+- não minimizar o zap web para melhor funcionamento
+- prencher todos os requisitos
+
+
+BOT PK
+-fase de testes
+-colunas minimas: 'Telefones' 'Paciente' 
+- não minimizar o zap web para melhor funcionamento
+- prencher todos os requisitos
+
+
+------------TODOS DEVEM CONTER CABEÇALHO SENDO ASSIM AS COLUNAS NA LINHA 2----------------------
+
+
+O PROGRAMA SALVA SESSAO POR DISPOSITIVO NÃO NECESSARIO RELOGAR O MESMO USUARIO DUAS VEZES
+
+A PASTA EMERGENCIA TEM OS BOTS SEPARADOS CASO OCORRA IMPREVISTOS ACESSAR POR LA 
